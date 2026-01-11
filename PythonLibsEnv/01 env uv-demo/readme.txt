@@ -56,4 +56,6 @@ uv sync
 
 3) Ausführen im richtigen environment
 
-uv run python main.py
+*************************
+* uv run python main.py *
+*************************
