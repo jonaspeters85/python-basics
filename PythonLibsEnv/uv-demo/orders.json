@@ -1,0 +1,8 @@
+{
+  "currency": "EUR",
+  "vat_rate": 0.19,
+  "items": [
+    {"name": "Keyboard", "qty": 1, "unit_price": 79.99},
+    {"name": "Mouse", "qty": 2, "unit_price": 24.50}
+  ]
+}
